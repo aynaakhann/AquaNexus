@@ -1,5 +1,8 @@
 # AquaNexus
 
+🥉 **3rd Place Winner – WPBrigade Hackathon**
+![3rd Place](https://img.shields.io/badge/🥉%203rd%20Place-Hackathon-orange)
+
 AI-assisted water allocation simulation for climate-resilient agriculture in Pakistan.
 
 ## Team
